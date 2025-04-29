@@ -42,8 +42,12 @@ Output:
 ![image](https://github.com/user-attachments/assets/8b1e03ee-ef40-4a33-bd1e-b32f7f726441)
 
 
+
+
 Result:
 Thus, the program is verified successfully. 
+
+
 
 
 
@@ -82,11 +86,15 @@ Output:
 
 
 
+
+
 Result:
 Thus, the program is verified successfully
 
 
  
+
+
 EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
 
 Aim:
@@ -120,14 +128,22 @@ Program:
  printf("\n%s File Closed",name);
 }
 ```
+
+
 Output:
 
 ![image](https://github.com/user-attachments/assets/7696b8f8-594b-4dda-afdd-4de62aaa3851)
 
 
+
+
+
 Result:
 Thus, the program is verified successfully
  
+
+
+
 
 
 EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
@@ -168,14 +184,22 @@ int main()
 }
 ```
 
+
+
+
 Output:
 
 ![image](https://github.com/user-attachments/assets/0f2de7a9-a53d-44a9-bc8f-dd9301613fdf)
 
 
 
+
+
 Result:
 Thus, the program is verified successfully
+
+
+
 
 
 
@@ -249,6 +273,7 @@ int main()
 
 
 Output:
+
 ![image](https://github.com/user-attachments/assets/108b29ac-9db6-4a91-80e2-40a1224ce9df)
 
 
