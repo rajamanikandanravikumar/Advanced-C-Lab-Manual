@@ -28,10 +28,11 @@ int main()
 ```
 
 
-Output:
+## Output:
+
 ![image](https://github.com/user-attachments/assets/275c65c4-54eb-4fca-a1dc-5a10f0022060)
 
 
 
-Result:
+## Result:
 Thus, the program is verified successfully.
