@@ -51,6 +51,7 @@ Thus, the program is verified successfully.
 
 
 
+
 # EXP NO:2 C PROGRAM FOR PASSING STRUCTURES AS FUNCTION ARGUMENTS AND RETURNING A STRUCTURE FROM A FUNCTION
 ## Aim:
 To write a C program for passing structure as function and returning a structure from a function
@@ -89,6 +90,7 @@ Thus, the program is verified successfully
 
 
  
+
 # EXP.NO:3 C PROGRAM TO READ A FILE NAME FROM USER AND WRITE THAT FILE USING FOPEN()
 
 ## Aim:
@@ -132,6 +134,8 @@ Use scanf to input the file name into the name array.
 ## Result:
 Thus, the program is verified successfully
  
+
+
 
 # EXP NO:4   PROGRAM TO READ A FILE NAME FROM USER, WRITE THAT FILE AND INSERT TEXT IN TO THAT FILE
 ## Aim:
@@ -177,6 +181,8 @@ int main()
 
 ## Result:
 Thus, the program is verified successfully
+
+
 
 # Ex No 5 : C PROGRAM TO DISPLAY STUDENT DETAILS USING STRUCTURE
 
